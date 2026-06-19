@@ -8,4 +8,4 @@ To-Do List
 ## Опис завдання
 Розширення веб-додатка To-Do List функціоналом спільної роботи та адміністрування в реальному часі. Основна мета - впровадження WebSocket-з'єднань для миттєвого обміну даними та моніторингу активності користувачів.
 
-## Посилання на звіт:  https://docs.google.com/document/d/1ZCiSv4S4LH4frH2iGPlqzkhD36iEC3ASFak-lLxk9gs/edit?usp=sharing
+## Посилання на звіт:  https://docs.google.com/document/d/1swO-oNA2LPF_jo6-K8JOgaG0VVAnErBDr55aU3ecaCE/edit?usp=sharing
